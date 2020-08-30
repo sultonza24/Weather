@@ -1,5 +1,5 @@
 import React from 'react'
-import { FlatList, View, Text, TouchableHighlight } from 'react-native'
+import { FlatList, View, Text, TouchableHighlight, StyleSheet } from 'react-native'
 import { useNavigation } from '@react-navigation/native'
 
 const availableZipItems = [
